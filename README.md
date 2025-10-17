@@ -9,8 +9,10 @@ Soy Licenciado en Informática con experiencia en desarrollo web y soporte técn
 - Herramientas de soporte: AnyDesk, TeamViewer, Jira
 
 ## 🚀 Proyectos destacados
-- [Landing Page de ejemplo](https://github.com/CISCOU99/landing-page)
-- [Portafolio personal](https://github.com/CISCOU99/portafolio-web)
+He realizado proyectos en mi carrera.
+- PROYECTOS UCE: https://github.com/CISCOU99/UCE---PROYECTOS
+- TRABAJO GRUPAL: https://github.com/CISCOU99/TRABAJO-GRUPAL
+- PROYECTO FINAL: https://github.com/CISCOU99/UCE---PROYECTO-FINAL
 
 ## 🌍 Ubicación
 - Ecuador 🇪🇨
